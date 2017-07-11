@@ -1,0 +1,19 @@
+<Solution>
+  <PropertyGroup Name="my2048" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="NewFolder" />
+        <Project Name="backpack.csd" Type="Layer" />
+        <Project Name="backpackscene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="oneItem.csd" Type="Node" />
+        <Project Name="oneTest.csd" Type="Node" />
+        <Project Name="onetiao.csd" Type="Node" />
+        <Project Name="taskSys.csd" Type="Scene" />
+        <Project Name="headerlayer.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
